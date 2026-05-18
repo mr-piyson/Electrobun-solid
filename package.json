@@ -14,9 +14,12 @@
     "electrobun": "1.18.1"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
     "@types/bun": "latest",
     "concurrently": "^9.1.0",
+    "daisyui": "^5.5.19",
     "solid-js": "^1.9.3",
+    "tailwindcss": "^4.3.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.3",
     "vite-plugin-solid": "^2.11.0"
